@@ -1,0 +1,48 @@
+#summary One-sentence summary of this page.
+#labels Featured
+
+= Introduction =
+
+ReanKhmer is a project made in 2006 for education competition to provide a tool for foreigners to study Khmer language.
+
+ * Version: 0.0.1-beta
+
+ReanKhmer distributed by 3 peoples:
+
+ * Pongsametrey S.
+ * Leaksmy S.
+ * Sidavy O.
+
+*ReanKhmer is only in version 0.0.1-beta1, you can use it but without any prior support but please let me know if you want to help continue implement it.*
+
+*Learning Khmer (ReanKhmer)* is implemented in VS 2005 using VB.Net and Flash MX.
+
+= Details =
+
+== How to install the application ==
+
+ * System Requirement:
+  # At least windows 2000 or XP (better) with RAM 128 MB (or greater)
+  # CPU Pentium III
+  # Require dotNet framework 2.0 (or 3.0)
+   (http://www.microsoft.com/en-us/download/details.aspx?id=7740)
+
+== Before install the 'ReanKhmer' ==
+
+ * Please install Macromedia Flash 8.0 or you can register the flash8.ocx in Support folder in the application folder.
+  You can copy it and past it in drive C:\ and then goto dos prompt and type:
+
+  C:\regsvr32 flash8.ocx
+
+ * Please install Khmer Unicode fonts with enable complex script. It is in Support folder in the application folder
+
+  You can install the KhmerUnicode1.2.5 or KhmerUnicode1.2
+
+ * Please prepare your display screen (WinXP) to use Windows Classic Theme and Appearance of Windows, changes font to Khmer OS System
+  You can do these things by right click on desktop -> Property -> Themes -> Change to Windows Classic and Click Appearance tab -> Click Advance -> Change font to "Khmer OS System"
+
+== Now you can start installation ==
+
+ * Just click on setup or reankhmer.exe to start learning khmer
+
+*** Now you can start to use the application.
