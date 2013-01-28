@@ -1,0 +1,7 @@
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\bin\Debug\PriintKhmerUnicode.exe
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\bin\Debug\PriintKhmerUnicode.pdb
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\obj\Debug\PriintKhmerUnicode.Properties.Resources.resources
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\obj\Debug\PriintKhmerUnicode.csproj.GenerateResource.Cache
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\obj\Debug\PriintKhmerUnicode.exe
+D:\Work\develop\PriintKhmerUnicode\PriintKhmerUnicode\obj\Debug\PriintKhmerUnicode.pdb
