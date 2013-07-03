@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/install/iReport-3.7.1/ireport/libs/xalan.jar"/>
+	<classpathentry kind="lib" path="D:/install/iReport-3.7.1/ireport/modules/com-jaspersoft-ireport.jar"/>
+	<classpathentry kind="lib" path="D:/jdk1.5.0_15/lib/ojdbc14-10.2.0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/install/iReport-3.7.1/ireport/modules/ext/commons-logging-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
